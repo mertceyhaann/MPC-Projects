@@ -1,0 +1,5 @@
+STM NUCLEOF401RE
+XL6009 Boost Converter
+JGA12-N20B DC Motor
+L298N Motor Driver
+12.5V DC Adaptor
